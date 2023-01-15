@@ -62,7 +62,7 @@ p{
     border-radius: 8px;
     width: 180px;
     height: 64px;
-    margin-top: 45px;
+    margin-top: 100px;
 }
 .rok{
     align-items: center;
@@ -461,6 +461,4 @@ p{
         text-align: start;
         margin-right: -20px;
         padding-right: 50px;
-}
-
-
+    }
